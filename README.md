@@ -23,6 +23,9 @@ Highlights the mouse pointer with an **arrow**, customizable in **direction, siz
 ## Kurulum / Installation
 pip install mss opencv-python numpy pillow pywin32
 
-ScreenShot
+ScreenShots
 
 <img width="1117" height="708" alt="image" src="https://github.com/user-attachments/assets/f3e6598a-66a5-4cc6-b0b6-47ac5027c4a1" />
+
+<img width="1121" height="710" alt="image" src="https://github.com/user-attachments/assets/ab8d12bc-a4e0-4830-822f-4c0f254c3408" />
+
